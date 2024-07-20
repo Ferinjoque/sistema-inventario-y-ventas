@@ -21,13 +21,13 @@ El Sistema de Gestión de Inventario y Ventas permite el control y seguimiento d
 1. Ejecuta el archivo [Main.java](src/sistemaInventario) de `src/sistemaInventario`.
 2. Se te solicitará que elijas una opción entre `Agregar producto al inventario`, `Realizar una venta`, `Ver inventario`, `Ver historial de ventas`, o `Salir`.
 3. Dependiendo de la opción escogida, podrás:
-  a) Ingresar manualmente los detalles de un nuevo producto, incluyendo su ID único, nombre, precio unitario y cantidad inicial en stock. 
-  b) Buscar rápidamente un producto específico utilizando su identificador único. 
-  c) Ver una lista detallada de todos los productos actualmente en el inventario.
-  d) Seleccionar productos del inventario, especificar la cantidad que deseas vender y generar automáticamente un recibo detallado.
-  e) Después de cada venta exitosa, generar un recibo que detalla los productos vendidos, las cantidades, los precios unitarios y el total de la venta.
-  f) Acceder a un registro cronológico de todas las transacciones de ventas anteriores.
-  g) Terminar la ejecución del código.
+  1. Ingresar manualmente los detalles de un nuevo producto, incluyendo su ID único, nombre, precio unitario y cantidad inicial en stock.
+  2. Buscar rápidamente un producto específico utilizando su identificador único.
+  3. Ver una lista detallada de todos los productos actualmente en el inventario.
+  4. Seleccionar productos del inventario, especificar la cantidad que deseas vender y generar automáticamente un recibo detallado.
+  5. Después de cada venta exitosa, generar un recibo que detalla los productos vendidos, las cantidades, los precios unitarios y el total de la venta.
+  6. Acceder a un registro cronológico de todas las transacciones de ventas anteriores.
+  7. Terminar la ejecución del código.
 
 ## Funcionamiento
 
