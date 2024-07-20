@@ -50,7 +50,8 @@ Para abordar las limitaciones actuales del sistema, se propone:
 
 ## Capturas de Pantalla
 
-![Sistema de Gestión de Inventario y Ventas](imagenes/sistema-inventario-y-ventas.png)
+![Inventario](imagenes/sistema-inventario-y-ventas1.png)
+![Venta](imagenes/sistema-inventario-y-ventas2.png)
 
 ## Contribución
 
