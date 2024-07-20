@@ -31,7 +31,7 @@ El Sistema de Gestión de Inventario y Ventas permite el control y seguimiento d
 
 ## Funcionamiento
 
-El funcionamiento del sistema se detalla paso a paso en nuestro [Informe]([TRABAJO FINAL] Sistema de Gestión de Inventario y Ventas).
+El funcionamiento del sistema se detalla paso a paso en nuestro [Informe](trabajofinal-sistema-inventario-y-ventas.pdf).
 
 ## Consideraciones
 1. El tamaño de diversos arrays es ajustable, como el número máximo de inventario, ventas, entre otros.
